@@ -8,4 +8,9 @@ public class HelloWorld {
   public static void go() {
     System.out.println(java);
   }
+  
+  public static void run() {
+	  System.out.println("TESTING");
+  }
 }
+
