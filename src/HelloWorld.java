@@ -1,4 +1,6 @@
 public class HelloWorld {
+
+  // Adding comments for GIT demo.
   public static final String java = "Go Java";
 
   public static void main(String[] args) {
